@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Confession</string>
+    <string name="title_activity_posts">Welcome to the forum!</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome_to_confession">Welcome to Confession!</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="loggingin">Logging in</string>
+    <string name="login">Log in</string>
+    <string name="time">Time:</string>
+    <string name="emptyString">This should not be empty</string>
+    <string name="success">Successfully Logged in</string>
+    <string name="failure">Failed:</string>
+    <string name="regsuccess">Registration Successful</string>
+    <string name="Log">FIREBASE_CONFESS_PUSH</string>
+    <string name="error">error:</string>
+    <string name="nav_about">This app is made by Moe Pwint Phyu</string>
+    <string name="title">Title</string>
+    <string name="write_your_post">Write your post...</string>
+</resources>
